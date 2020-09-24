@@ -1,11 +1,11 @@
 ### Hello🙌 My name is Hyekyung and I live in South Korea!
 
-[![Github](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://MoonHyekyung.github.io/)](https://github.com/MoonHyekyung) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonsoft02@gmail.com)](mailto:moonsoft02@gmail.com) [![Velog Badge](](
+[![Github](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://MoonHyekyung.github.io/)](https://github.com/MoonHyekyung) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonsoft02@gmail.com)](mailto:moonsoft02@gmail.com) [![Velog Badge](https://img.shields.io/badge/velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@moonsoft02)](https://velog.io/@moonsoft02)
 <!--
 **MoonHyekyung/MoonHyekyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+-->(
 
 
 - 🔭 I’m currently working on [Perseus](https://cyberperseus.com) (It is Enterprise that has a skill about hypervisor)
